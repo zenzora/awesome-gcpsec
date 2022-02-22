@@ -30,3 +30,5 @@
 [Project Lockdown](https://github.com/ScaleSec/project_lockdown) -  Collection of "Cloud Functions designed to react to unsecure resource creations or configurations"
 
 [Simple CSPM](https://simplecspm.com/) - A security audit tool for GCP using Google Sheets.
+
+[Firebase Scanner](https://github.com/arxenix/firebase-scanner) - Tools for scanning firebase projects
