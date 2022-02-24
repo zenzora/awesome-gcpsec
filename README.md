@@ -32,3 +32,5 @@
 [Simple CSPM](https://simplecspm.com/) - A security audit tool for GCP using Google Sheets.
 
 [Firebase Scanner](https://github.com/arxenix/firebase-scanner) - Tools for scanning firebase projects
+
+[Serverless Container Registry Proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy to expose public or private container registries under a custom domain
