@@ -10,6 +10,7 @@
 [Container Scanning Overview](https://cloud.google.com/container-analysis/docs/container-scanning-overview) - Documentation for container scanning on GCP
 
 
+
 ## Feeds / Blogs
 
 [Google Cloud - Security Bulletins](https://cloud.google.com/support/bulletins/index) - Official security bulletins
@@ -34,3 +35,7 @@
 [Firebase Scanner](https://github.com/arxenix/firebase-scanner) - Tools for scanning firebase projects
 
 [Serverless Container Registry Proxy](https://github.com/ahmetb/serverless-registry-proxy) - Serverless reverse proxy to expose public or private container registries under a custom domain
+
+[ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security-auditing tool,with GCP support
+
+[IAM Privilege Escalation in GCP](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) - Enumeration and exploit scripts for IAM privilege escalation
