@@ -9,7 +9,9 @@
 
 [Container Scanning Overview](https://cloud.google.com/container-analysis/docs/container-scanning-overview) - Documentation for container scanning on GCP
 
+[GKE PCI-DSS Blueprint](https://cloud.google.com/architecture/gke-pci-dss-blueprint) - Guide and Terraform that "demonstrate how to bootstrap a PCI environment in Google Cloud"
 
+[Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Library of Bigquery and Chronicle queries for common security analytics use cases
 
 ## Feeds / Blogs
 
@@ -39,3 +41,6 @@
 [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-cloud security-auditing tool,with GCP support
 
 [IAM Privilege Escalation in GCP](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) - Enumeration and exploit scripts for IAM privilege escalation
+
+[GCP Lateral Movement Detector] - Script to map out which GCP instances are able to access to each other
+
