@@ -42,5 +42,5 @@
 
 [IAM Privilege Escalation in GCP](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) - Enumeration and exploit scripts for IAM privilege escalation
 
-[GCP Lateral Movement Detector] - Script to map out which GCP instances are able to access to each other
+[GCP Lateral Movement Detector](https://github.com/orcasecurity/orca-toolbox/tree/main/GCP-Lateral-Movement-Detector) - Script to map out which GCP instances are able to access to each other
 
