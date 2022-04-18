@@ -46,3 +46,6 @@
 
 [GCP Lateral Movement Detector](https://github.com/orcasecurity/orca-toolbox/tree/main/GCP-Lateral-Movement-Detector) - Script to map out which GCP instances are able to access to each other
 
+[IAM Analyzer](https://github.com/jdyke/gcp-iam-analyzer) - Compare and analyze two IAM roles
+
+[Starbase](https://github.com/JupiterOne/starbase) - Tool for building a GraphDB of your cloud infrastructure. Supports GCP.
