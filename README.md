@@ -13,6 +13,8 @@
 
 [Community Security Analytics](https://github.com/GoogleCloudPlatform/security-analytics) - Library of BigQuery and Chronicle queries for common security analytics use cases
 
+[GCP Comics](https://gcpcomics.com/) - Collection of comics mainly explaining GCP security concepts.
+
 ## Feeds / Blogs
 
 [Google Cloud - Security Bulletins](https://cloud.google.com/support/bulletins/index) - Official security bulletins
@@ -49,3 +51,5 @@
 [IAM Analyzer](https://github.com/jdyke/gcp-iam-analyzer) - Compare and analyze two IAM roles
 
 [Starbase](https://github.com/JupiterOne/starbase) - Tool for building a GraphDB of your cloud infrastructure. Supports GCP.
+
+[GCP Scanner](https://github.com/google/gcp_scanner) - Resource scanner to evaluate access levels of known credentials 
